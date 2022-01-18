@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://stephensilber.github.io/csb-jc434/static/css/main.1c03bdbb.chunk.css",
+    "main.js": "https://stephensilber.github.io/csb-jc434/static/js/main.598860dd.chunk.js",
+    "main.js.map": "https://stephensilber.github.io/csb-jc434/static/js/main.598860dd.chunk.js.map",
+    "runtime-main.js": "https://stephensilber.github.io/csb-jc434/static/js/runtime-main.89a52fdd.js",
+    "runtime-main.js.map": "https://stephensilber.github.io/csb-jc434/static/js/runtime-main.89a52fdd.js.map",
+    "static/js/2.9a3b73f0.chunk.js": "https://stephensilber.github.io/csb-jc434/static/js/2.9a3b73f0.chunk.js",
+    "static/js/2.9a3b73f0.chunk.js.map": "https://stephensilber.github.io/csb-jc434/static/js/2.9a3b73f0.chunk.js.map",
+    "index.html": "https://stephensilber.github.io/csb-jc434/index.html",
+    "static/css/main.1c03bdbb.chunk.css.map": "https://stephensilber.github.io/csb-jc434/static/css/main.1c03bdbb.chunk.css.map",
+    "static/js/2.9a3b73f0.chunk.js.LICENSE.txt": "https://stephensilber.github.io/csb-jc434/static/js/2.9a3b73f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89a52fdd.js",
+    "static/js/2.9a3b73f0.chunk.js",
+    "static/css/main.1c03bdbb.chunk.css",
+    "static/js/main.598860dd.chunk.js"
+  ]
+}
